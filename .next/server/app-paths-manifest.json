@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/about/page": "app/about/page.js",
+  "/news/page": "app/news/page.js",
+  "/categories/page": "app/categories/page.js",
+  "/readable/page": "app/readable/page.js",
+  "/reader/page": "app/reader/page.js",
+  "/search/page": "app/search/page.js",
+  "/viewer/page": "app/viewer/page.js",
+  "/news/[id]/page": "app/news/[id]/page.js",
+  "/categories/[category]/page": "app/categories/[category]/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/page": "app/page.js"
+}
