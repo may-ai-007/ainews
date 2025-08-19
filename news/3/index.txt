@@ -1,0 +1,58 @@
+2:I[4919,["569","static/chunks/569-3ef278f5e2842b61.js","914","static/chunks/914-3b7ba9a1b352f441.js","508","static/chunks/508-bfb62a8216dafafd.js","903","static/chunks/app/news/%5B...id%5D/page-7d846f57b58e7d23.js"],""]
+4:I[5613,[],""]
+6:I[1778,[],""]
+7:I[5935,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+8:I[151,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+9:I[78,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"ThemeProvider"]
+a:I[368,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"LanguageProvider"]
+3:T105a,
+    <p><b>一、原文核心内容与分析</b>
+<h4>▍Bobby产品定义与核心功能</h4>
+<p>Bobby是全球首个金融交易领域的AI Agent，提供7×24小时服务，支持自然语言对话完成投资闭环：从市场分析、策略生成到订单执行及持仓管理。核心功能包括：实时市场动态解析、个性化投资组合建议、一键交易执行、风险保护机制（如自动止损单）。产品采用Agent形态替代传统GUI界面，计划2024年全面取代RockFlow App。</p>
+
+<h4>▍开发历程与产品策略</h4>
+<ul>
+  <li><strong>立项背景</strong>：2023年9月正式启动，源于Vakee团队对金融行业痛点的洞察——传统券商APP功能泛滥却无法满足个性化需求。</li>
+  <li><strong>技术突破</strong>：优化响应速度（从20秒缩短至1-5秒）、控制token成本、自研任务调度系统解决AI幻觉问题。放弃RAG架构，采用多模型策略灵活调用GPT-4等模型。</li>
+  <li><strong>核心策略</strong>：All-in-one（支持股票/期权/Crypto等多品类交易）与AI-native（自然语言交互优先）。团队全员INTJ特质推动极致打磨。</li>
+</ul>
+
+<h4>▍用户案例与价值验证</h4>
+<ul>
+  <li><strong>案例1</strong>：英国用户通过Bobby在Circle上市时自动下单，股价翻倍后触发止损单锁定收益。</li>
+  <li><strong>案例2</strong>：小白用户输入"3000美金帮我赚钱"，Bobby推荐SPY/QQQ指数基金及苹果等稳健组合。</li>
+  <li><strong>案例3</strong>：用户基于特朗普与马斯克吵架事件，通过Bobby建议买入特斯拉看跌期权获利400%。</li>
+</ul>
+<p>关键价值：降低心理门槛（自然语言交互）、简化操作流程（闭环执行）、将生活观察转化为投资行动。</p>
+
+<h4>▍创始人理念与行业洞察</h4>
+<ul>
+  <li><strong>Vakee的投资世界观</strong>：主张"赚认知内的钱"，从9岁炒股经历到百度凤巢/VC从业经验，强调"生活即投资信号"（如观察奶茶店客流、盲盒热度）。</li>
+  <li><strong>金融平权愿景</strong>：让消费者成为股东（如"B站大会员送股票"构想），构建"使用-获利"正向循环。批判传统金融体系剥夺用户资本收益权。</li>
+  <li><strong>Agent vs 传统APP</strong>：GUI界面注定消亡——复杂场景需"数据库+Agent"组合，如携程无法处理"订晚航班且少转机"的模糊需求。</li>
+</ul>
+
+<h4>▍未来方向与挑战</h4>
+<ul>
+  <li><strong>产品进化</strong>：从被动响应到主动建议（如推送持仓相关宏观事件）、支持语音电话提醒。</li>
+  <li><strong>行业挑战</strong>：责任界定（亏损归因）、幻觉风险、数据安全。Vakee强调Bobby仅为"辅助工具"，不下承诺性建议。</li>
+  <li><strong>社会意义</strong>：推动"商业平权"，让投资成为生活方式而非精英游戏。</li>
+</ul>
+      
+
+    <p><b>二、深度思考</b>
+      <b>
+<p><strong>垂直Agent的落地悖论</strong>：Bobby证明AI在金融场景可实现闭环价值，但高合规性行业需平衡创新与风险。例如，其"递归交叉验证"机制虽提升准确性，却依赖海量算力，可能抬高使用成本，与"普惠"初衷矛盾。</p>
+  
+  <p><strong>技术民主化的双刃剑</strong>：自然语言交互确实降低投资门槛，但可能诱发非理性决策（如跟风下单）。当AI简化了"如何操作"，却未解决"为何操作"，散户风险认知鸿沟可能加剧。</p>
+  
+  <p><strong>数据权与商业伦理</strong>：Vakee的"消费者变股东"愿景颇具革命性，但需警惕新型垄断——若平台掌握用户行为数据并用于投资建议，可能衍生利益冲突。例如，Bobby分析用户消费偏好后推荐关联股票，存在操纵嫌疑。</p>
+  
+  <p><strong>生态位竞争策略</strong>：RockFlow选择垂类深耕（金融）而非通用Agent，是明智差异点。但巨头的降维打击（如Robinhood集成ChatGPT）仍是威胁。Bobby的壁垒在于"领域know-how+工程细节"，如自动分单减少磨损的算法，非技术团队难以短期复制。</p>
+
+
+      </b><p>  
+    5:["id","3","c"]
+0:["ynNcjvjOGciEPa5SCiAIr",[[["",{"children":["news",{"children":[["id","3","c"],{"children":["__PAGE__?{\"id\":[\"3\"]}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["id","3","c"],{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"article":{"id":"3","title":"RockFlow 创始人：如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」","summary":"【AI摘要】RockFlow 创始人分享了他们如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」。他们从零开始，通过不断迭代和优化，最终实现了这一目标。","content":"$3","category":"专访","date":"2025-07-01","imageUrl":"/images/3.jpg","source":"十字路口","sourceUrl":"https://mp.weixin.qq.com/s?__biz=Mzk0MzI3MTMxOA==&mid=2247490252&idx=1&sn=71bf219e89921362ad227ea931d2ab28&chksm=c2ba395cbc4aedf5ec796b7a9ead9ecabc0cf6e5347e37ad03363a28540e5d7ead19520dc4b9&mpshare=1&scene=1&srcid=0701deMcBKTstjbWym7wQMxf&sharer_shareinfo=9bcfdfa850a2ebb9a2e490392fa4059a&sharer_shareinfo_first=9bcfdfa850a2ebb9a2e490392fa4059a","featured":true,"tags":["AI Agent","投资交易","AI Agent 「Bobby」"],"readingTime":15,"aiSummary":"RockFlow 创始人分享了他们如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」。他们从零开始，通过不断迭代和优化，最终实现了这一目标。"}}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","$L7",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6311595220291476","crossOrigin":"anonymous","strategy":"afterInteractive"}]]}],["$","body",null,{"className":"__variable_e8ce0c __variable_5899e0 antialiased","children":[["$","$L8",null,{}],["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$La",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58f861f69185c564.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"RockFlow 创始人：如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」 | AI News Weekly"}],["$","meta","3",{"name":"description","content":"【AI摘要】RockFlow 创始人分享了他们如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」。他们从零开始，通过不断迭代和优化，最终实现了这一目标。"}],["$","meta","4",{"name":"keywords","content":"AI,Artificial Intelligence,News,Tech News,Weekly Updates"}],["$","meta","5",{"name":"robots","content":"index, follow, nocache"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"RockFlow 创始人：如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」"}],["$","meta","8",{"property":"og:description","content":"【AI摘要】RockFlow 创始人分享了他们如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」。他们从零开始，通过不断迭代和优化，最终实现了这一目标。"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3000/images/3.jpg"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"RockFlow 创始人：如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」"}],["$","meta","12",{"name":"twitter:description","content":"【AI摘要】RockFlow 创始人分享了他们如何用两年时间，从 0 到 1 打造全球首个投资交易 AI Agent 「Bobby」。他们从零开始，通过不断迭代和优化，最终实现了这一目标。"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/3.jpg"}],["$","link","14",{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/AI.svg","type":"image/svg+xml"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

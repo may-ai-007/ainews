@@ -1,0 +1,51 @@
+2:I[4919,["569","static/chunks/569-3ef278f5e2842b61.js","914","static/chunks/914-3b7ba9a1b352f441.js","508","static/chunks/508-bfb62a8216dafafd.js","903","static/chunks/app/news/%5B...id%5D/page-7d846f57b58e7d23.js"],""]
+4:I[5613,[],""]
+6:I[1778,[],""]
+7:I[5935,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+8:I[151,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+9:I[78,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"ThemeProvider"]
+a:I[368,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"LanguageProvider"]
+3:Tb96,
+      <p><b>一、原文核心内容与分析</b>
+
+<h4>▍Tiny Teams定义与价值</h4>
+<p>Tiny Teams被定义为"ARR（年度经常性收入）超过员工数量"的超高效组织，其本质是通过技术杠杆打破传统管理规模不经济定律。在AGI时代，这种形态正从早期创业公司蔓延至大企业内部创新单元，成为组织进化的新范式。</p>
+
+<h4>▍七大标杆案例共性策略</h4>
+<ol>
+  <li><strong>Gamma（50M用户/30人）</strong>：通用主义者+教练制+部落文化，通过品牌信仰凝聚超强战斗力</li>
+  <li><strong>Gumloop（10人独角兽目标）</strong>：极端招聘（全球4天工作试炼）、自动化狂热（代码复用率超90%）</li>
+  <li><strong>Bolt.new（15人/20M ARR）</strong>：铁血优先级管理，专注10%关键任务实现指数增长</li>
+  <li><strong>Oleve（连续推出3款千万产品）</strong>：提出"不要重复造轮子"方法论，构建可复用的AI基础设施</li>
+  <li><strong>Every（2M募资）</strong>：开创基准测试商业化，打造AI领域的米其林餐厅评级体系</li>
+</ol>
+
+<h4>▍技术极简主义实践</h4>
+<ul>
+  <li>工具链：Shell脚本＞Kubernetes，坚持模块化编码原则</li>
+  <li>产品观：从单一LLM API封装开始，通过功能开关快速迭代</li>
+  <li>评估体系：自建模型评测标准并转化为市场竞争壁垒</li>
+</ul>
+
+<h4>▍组织进化启示录</h4>
+<blockquote>
+  <p>"裁员=利好"的悖论折射出AI时代的真谛：当7人团队创造7位数ARR时，传统雇佣关系正在被重新定义。Vik的Datapoint证明，开源模型+垂直场景深耕能构建惊人盈利密度。</p>
+</blockquote>
+      
+      <p><b>二、深度思考</b>
+      <b>
+    
+      <p>本文揭示的Tiny Teams现象本质上反映了数字时代的组织能效革命。当顶级团队能以低于行业平均人效10倍的速度创造价值时，传统企业的人力资源管理模式正面临降维打击。这种现象背后存在三个底层逻辑：</p>
+<ol>
+  <li><strong>认知杠杆效应</strong>：精英通才通过深度掌握多个领域知识，创造出远超线性叠加的价值。如Oleve团队成员普遍具备工程+设计+产品的T型能力。</li>
+  <li><strong>注意力经济学</strong>：通过极端减少会议（Gumloop甚至取消例会）、优化沟通媒介（Wall of Work看板），将认知资源集中到价值创造环节。</li>
+  <li><strong>信任资本积累</strong>：高薪招募带来的归属感与极简管理产生的责任感形成正向循环，Vik的Datapoint团队人均产出达到行业50倍水平。</li>
+</ol>
+<p>但这种模式也存在显著风险：当团队规模突破15人阈值时，原有文化稀释速度加快；过度依赖创始人特质导致可复制性存疑。更值得警惕的是，当所有企业都追求微型化时，社会就业结构可能面临两极分化加剧的风险。</p>
+
+
+      </b><p>
+    5:["id","18","c"]
+0:["ynNcjvjOGciEPa5SCiAIr",[[["",{"children":["news",{"children":[["id","18","c"],{"children":["__PAGE__?{\"id\":[\"18\"]}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["id","18","c"],{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"article":{"id":"18","title":"AI 创业小团队作战手册（英文）","summary":"【AI摘要】文章揭秘全球顶尖'微型团队'（Tiny Teams）的成功密码，通过7家ARR超2亿、人数不足15人的AI公司案例，提炼出'精英通才+极简工具+爆炸式增长'的运作范式。这些团队通过产品驱动招聘、极端扁平化管理、技术极简主义，在AI工程领域实现了远超大公司的创新效率，预示未来组织形态将向高信任、高自治的小型作战单元进化。","content":"$3","category":"观点","date":"2025-07-16","imageUrl":"/images/18.jpg","source":"Latent","sourceUrl":"https://www.latent.space/p/tiny?utm_source=substack&utm_medium=email","tags":["AI创业","微型团队","产品驱动","极简主义"],"readingTime":18,"aiSummary":"文章揭秘全球顶尖'微型团队'（Tiny Teams）的成功密码，通过7家ARR超2亿、人数不足15人的AI公司案例，提炼出'精英通才+极简工具+爆炸式增长'的运作范式。这些团队通过产品驱动招聘、极端扁平化管理、技术极简主义，在AI工程领域实现了远超大公司的创新效率，预示未来组织形态将向高信任、高自治的小型作战单元进化。"}}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","$L7",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6311595220291476","crossOrigin":"anonymous","strategy":"afterInteractive"}]]}],["$","body",null,{"className":"__variable_e8ce0c __variable_5899e0 antialiased","children":[["$","$L8",null,{}],["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$La",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58f861f69185c564.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"AI 创业小团队作战手册（英文） | AI News Weekly"}],["$","meta","3",{"name":"description","content":"【AI摘要】文章揭秘全球顶尖'微型团队'（Tiny Teams）的成功密码，通过7家ARR超2亿、人数不足15人的AI公司案例，提炼出'精英通才+极简工具+爆炸式增长'的运作范式。这些团队通过产品驱动招聘、极端扁平化管理、技术极简主义，在AI工程领域实现了远超大公司的创新效率，预示未来组织形态将向高信任、高自治的小型作战单元进化。"}],["$","meta","4",{"name":"keywords","content":"AI,Artificial Intelligence,News,Tech News,Weekly Updates"}],["$","meta","5",{"name":"robots","content":"index, follow, nocache"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"AI 创业小团队作战手册（英文）"}],["$","meta","8",{"property":"og:description","content":"【AI摘要】文章揭秘全球顶尖'微型团队'（Tiny Teams）的成功密码，通过7家ARR超2亿、人数不足15人的AI公司案例，提炼出'精英通才+极简工具+爆炸式增长'的运作范式。这些团队通过产品驱动招聘、极端扁平化管理、技术极简主义，在AI工程领域实现了远超大公司的创新效率，预示未来组织形态将向高信任、高自治的小型作战单元进化。"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3000/images/18.jpg"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"AI 创业小团队作战手册（英文）"}],["$","meta","12",{"name":"twitter:description","content":"【AI摘要】文章揭秘全球顶尖'微型团队'（Tiny Teams）的成功密码，通过7家ARR超2亿、人数不足15人的AI公司案例，提炼出'精英通才+极简工具+爆炸式增长'的运作范式。这些团队通过产品驱动招聘、极端扁平化管理、技术极简主义，在AI工程领域实现了远超大公司的创新效率，预示未来组织形态将向高信任、高自治的小型作战单元进化。"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/18.jpg"}],["$","link","14",{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/AI.svg","type":"image/svg+xml"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

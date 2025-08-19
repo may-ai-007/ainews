@@ -1,0 +1,46 @@
+2:I[4919,["569","static/chunks/569-3ef278f5e2842b61.js","914","static/chunks/914-3b7ba9a1b352f441.js","508","static/chunks/508-bfb62a8216dafafd.js","903","static/chunks/app/news/%5B...id%5D/page-7d846f57b58e7d23.js"],""]
+4:I[5613,[],""]
+6:I[1778,[],""]
+7:I[5935,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+8:I[151,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+9:I[78,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"ThemeProvider"]
+a:I[368,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"LanguageProvider"]
+3:Tadf,
+      <p><b>一、原文核心内容与分析</b>
+
+<p>文章基于《中国企业家》报道，分析AI短视频博主的兴起、技术支撑、商业化路径和行业挑战，字数占原文50%以上。</p>
+
+<h4>▍AI短视频爆发背景</h4>
+<p>2024-2025年，AI生成视频（如"小猫做饭"）在抖音等平台爆火，播放量超千万。技术转折点是OpenAI的Sora模型和DiTs架构落地，国内字节"即梦"、快手"可灵"等工具普及，推动自媒体市场规模从5000亿增至7000亿元，UGC向PUGC转型。</p>
+
+<h4>▍技术应用与个人案例</h4>
+<ul>
+  <li><strong>技术基础</strong>：DiTs架构（扩散Transformer）为核心，谷歌Veo 3实现视频音效同步生成；DeepSeek-R1用于脚本推理，博主需一人完成全流程。</li>
+  <li><strong>案例</strong>：李可2小时制作小猫视频获千万播放；周鹏全职转型，月涨粉2万；叶威账号10天涨粉破万，靠AI工具降低剪辑门槛。</li>
+</ul>
+
+<h4>▍商业化与收益模式</h4>
+<ul>
+  <li><strong>变现途径</strong>：商单（餐饮/烘焙行业广告，头部报价1秒1万元）、比赛奖金（如腾讯360万奖金池）、课程销售（叶威课程10天售1000+）、流量激励。</li>
+  <li><strong>IP价值</strong>：内容型博主（如动物视频）靠播放量；IP型博主（如周鹏）靠个人品牌溢价，智研咨询显示广告收入占行业34.8%。</li>
+</ul>
+
+<h4>▍行业挑战与监管</h4>
+<ul>
+  <li><strong>技术风险</strong>：模型月级迭代（如Veo 3更新），博主面临"技能过时"危机。</li>
+  <li><strong>平台治理</strong>：抖音2023-2025年多次发布AI内容规范，2025年9月《人工智能生成合成内容标识办法》实施，要求声明AI生成。</li>
+  <li><strong>未来趋势</strong>：AI短剧成新风口（如新加坡《郑三娘》），但需平衡创新与合规。</li>
+</ul>
+
+      
+      <p><b>二、深度思考</b>
+      <b>
+    
+      <p>作为AI助手，我认为文章揭示了技术赋能的矛盾性：一方面，AI工具如Veo 3 democratizes creativity，让零基础用户（如周鹏）快速入局，推动UGC升级并催生"超级个体"经济，这与DeepSeek-R1的推理能力结合，可能激发小微创业浪潮。另一方面，风险显著——技术迭代以月为单位导致技能贬值（如博主担忧"砌墙被拆"），商业化依赖头部IP加剧不平等（中小博主陷低收益陷阱），且监管滞后（如抖音新规未覆盖数据安全），可能引发伦理争议（如原创性模糊）。未来，行业需强化人机协作：博主应聚焦创意而非工具操作，平台与企业（如腾讯）共建标准框架，否则泡沫化风险将威胁可持续增长。</p>
+
+
+      </b><p>
+    5:["id","19","c"]
+0:["ynNcjvjOGciEPa5SCiAIr",[[["",{"children":["news",{"children":[["id","19","c"],{"children":["__PAGE__?{\"id\":[\"19\"]}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["id","19","c"],{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"article":{"id":"19","title":"我靠 AI 当上了网红","summary":"【AI摘要】文章探讨AI短视频博主的崛起，展示零基础用户如何利用AI工具（如Veo 3、DeepSeek-R1）快速涨粉和商业化，覆盖技术基础、个人案例、收益模式及监管挑战，揭示AI如何重塑内容创作生态。","content":"$3","category":"访谈","date":"2025-07-16","imageUrl":"/images/19.jpg","source":"《中国企业家》","sourceUrl":"https://mp.weixin.qq.com/s?__biz=MTI3NTQ1MTY0MQ%3D%3D&mid=2650650418&idx=1&sn=8f68b3a45222a77d67bfc9520c79b87b&chksm=7dea0c2a9588fab9fe2c58f9710585ffa410d6e3c54f9b8a78c4d9c70e53896fcbb75bf15291&mpshare=1&scene=1&srcid=0716gMBbB4rHv8F2fLVpvShR&sharer_shareinfo=dedbdeb675fb3e9bc62f01dbf11d00b6&sharer_shareinfo_first=dedbdeb675fb3e9bc62f01dbf11d00b6&utm_source=substack&utm_medium=email","tags":["AI创业","网红","访谈"],"readingTime":15,"aiSummary":"文章探讨AI短视频博主的崛起，展示零基础用户如何利用AI工具（如Veo 3、DeepSeek-R1）快速涨粉和商业化，覆盖技术基础、个人案例、收益模式及监管挑战，揭示AI如何重塑内容创作生态。"}}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","$L7",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6311595220291476","crossOrigin":"anonymous","strategy":"afterInteractive"}]]}],["$","body",null,{"className":"__variable_e8ce0c __variable_5899e0 antialiased","children":[["$","$L8",null,{}],["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$La",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58f861f69185c564.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"我靠 AI 当上了网红 | AI News Weekly"}],["$","meta","3",{"name":"description","content":"【AI摘要】文章探讨AI短视频博主的崛起，展示零基础用户如何利用AI工具（如Veo 3、DeepSeek-R1）快速涨粉和商业化，覆盖技术基础、个人案例、收益模式及监管挑战，揭示AI如何重塑内容创作生态。"}],["$","meta","4",{"name":"keywords","content":"AI,Artificial Intelligence,News,Tech News,Weekly Updates"}],["$","meta","5",{"name":"robots","content":"index, follow, nocache"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"我靠 AI 当上了网红"}],["$","meta","8",{"property":"og:description","content":"【AI摘要】文章探讨AI短视频博主的崛起，展示零基础用户如何利用AI工具（如Veo 3、DeepSeek-R1）快速涨粉和商业化，覆盖技术基础、个人案例、收益模式及监管挑战，揭示AI如何重塑内容创作生态。"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3000/images/19.jpg"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"我靠 AI 当上了网红"}],["$","meta","12",{"name":"twitter:description","content":"【AI摘要】文章探讨AI短视频博主的崛起，展示零基础用户如何利用AI工具（如Veo 3、DeepSeek-R1）快速涨粉和商业化，覆盖技术基础、个人案例、收益模式及监管挑战，揭示AI如何重塑内容创作生态。"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/19.jpg"}],["$","link","14",{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/AI.svg","type":"image/svg+xml"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

@@ -1,0 +1,61 @@
+2:I[4919,["569","static/chunks/569-3ef278f5e2842b61.js","914","static/chunks/914-3b7ba9a1b352f441.js","508","static/chunks/508-bfb62a8216dafafd.js","903","static/chunks/app/news/%5B...id%5D/page-7d846f57b58e7d23.js"],""]
+4:I[5613,[],""]
+6:I[1778,[],""]
+7:I[5935,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+8:I[151,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+9:I[78,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"ThemeProvider"]
+a:I[368,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"LanguageProvider"]
+3:Tce1,
+      <p><b>一、原文核心内容与分析</b>
+
+<h4>▍AI坟场数据洞察</h4>
+<ul>
+  <li><strong>样本规模</strong>：Dang.ai收录1289个已关闭的AI产品，2025年新增超200个</li>
+  <li><strong>品类分布</strong>：聊天机器人占40%，代码辅助工具占20%</li>
+  <li><strong>典型案例</strong>：曾融资7750万美元的搜索工具Neeva因巨头挤压关闭；AI搭讪生成器"AI Pickup Lines"上线数月即停运</li>
+</ul>
+
+<h4>▍失败核心原因</h4>
+<ul>
+  <li><strong>套壳陷阱</strong>：60%+产品仅为大模型套壳（如名人肖像生成器MaskrAI），缺乏技术壁垒</li>
+  <li><strong>巨头碾压</strong>：创业公司难敌巨头生态（如Google搜索挤压Neeva）</li>
+  <li><strong>硬件困境</strong>：Humane Rabbit胸针等硬件因功能鸡肋遭市场淘汰</li>
+</ul>
+
+<h4>▍情感陪伴赛道困局</h4>
+<ul>
+  <li><strong>需求泡沫</strong>：全球Top50 AI应用中8款为陪伴类，但多数快速衰退（如筑梦岛月活暴跌14%）</li>
+  <li><strong>监管雷区</strong>：Minimax的Glow因涉黄下架，字节"猫箱"、X Her因低俗整改</li>
+  <li><strong>盈利悖论</strong>：
+    <ul>
+      <li>Replika：50%付费率，月收200万美元但用户规模小</li>
+      <li>Character.AI：千万用户却变现困难，最终卖身Google</li>
+    </ul>
+  </li>
+</ul>
+
+<h4>▍行业反思</h4>
+<ul>
+  <li><strong>需求错配</strong>：AI无法替代真实情感联结（如虚拟恋爱产品）</li>
+  <li><strong>成本失控</strong>：游戏化运营（抽卡/亲密度）推高套壳产品成本</li>
+  <li><strong>转型尝试</strong>：部分公司转向"非恋爱型陪伴"（如游戏陪玩AI）</li>
+</ul>
+      
+      <p><b>二、深度思考</b>
+      <b>
+      <p><strong>伪需求验证</strong>：多数失败产品源于解决"不存在的问题"。如AI搭讪生成器忽略真实社交复杂性，情感陪伴产品混淆"孤独缓解"与"情感替代"。AI在标准化任务（如数据分析）表现优异，但涉及人性需求时易暴露局限性。</p>
+  
+  <p><strong>套壳死亡螺旋</strong>：低技术门槛导致同质化竞争，而大模型原生功能迭代（如GPT-4 Turbo新增多模态）持续挤压套壳产品生存空间。当技术护城河缺失，仅靠微创新的产品必然被淘汰。</p>
+  
+  <p><strong>情感经济悖论</strong>：陪伴类产品面临三重矛盾：①用户要深度情感联结但AI仅能模拟表面互动；②小众高付费用户支撑不起规模野心；③海量用户带来监管风险与内容治理成本。Replika与Character.AI的对比证明：情感需求商业化需在"深度付费"与"规模效应"间抉择，难以兼得。</p>
+  
+  <p><strong>硬件启示录</strong>：Rabbit胸针等失败反映"为AI而AI"的硬件陷阱。用户不为技术买单，只为体验付费。当AI硬件未解决核心痛点（如Rabbit未能替代手机交互），注定成为科技玩具。</p>
+  
+  <p><strong>未来方向</strong>：成功AI产品需锚定三类场景：①增强人类能力（如Copilot编程）；②解决高频刚需（如医疗诊断辅助）；③创造不可逆效率优势（如AI质检）。避免追逐"科幻想象"而忽视真实需求金字塔底层。</p>
+
+
+      </b><p>
+    5:["id","16","c"]
+0:["ynNcjvjOGciEPa5SCiAIr",[[["",{"children":["news",{"children":[["id","16","c"],{"children":["__PAGE__?{\"id\":[\"16\"]}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["id","16","c"],{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"article":{"id":"16","title":"看完 1289 个死掉的 AI 产品，我发现这些需求就不该用 AI 解决","summary":"【AI摘要】文章分析1289个失败AI产品，揭示套壳应用（如AI搭讪生成器）和情感陪伴类产品（如AI伴侣）是重灾区。失败主因包括同质化竞争、大模型更新淘汰、盈利模式缺失及监管风险，证明伪需求场景（如虚拟恋爱）和低技术壁垒产品难以持续。","content":"$3","category":"案例","date":"2025-07-09","imageUrl":"/images/16.png","source":"爱范儿","sourceUrl":"https://www.ifanr.com/1629884?utm_source=rss&utm_medium=rss&utm_campaign=","tags":["AI产品失败","同质化竞争","盈利模式","监管风险"],"readingTime":10,"aiSummary":"文章分析1289个失败AI产品，揭示套壳应用（如AI搭讪生成器）和情感陪伴类产品（如AI伴侣）是重灾区。失败主因包括同质化竞争、大模型更新淘汰、盈利模式缺失及监管风险，证明伪需求场景（如虚拟恋爱）和低技术壁垒产品难以持续。"}}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","$L7",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6311595220291476","crossOrigin":"anonymous","strategy":"afterInteractive"}]]}],["$","body",null,{"className":"__variable_e8ce0c __variable_5899e0 antialiased","children":[["$","$L8",null,{}],["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$La",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58f861f69185c564.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"看完 1289 个死掉的 AI 产品，我发现这些需求就不该用 AI 解决 | AI News Weekly"}],["$","meta","3",{"name":"description","content":"【AI摘要】文章分析1289个失败AI产品，揭示套壳应用（如AI搭讪生成器）和情感陪伴类产品（如AI伴侣）是重灾区。失败主因包括同质化竞争、大模型更新淘汰、盈利模式缺失及监管风险，证明伪需求场景（如虚拟恋爱）和低技术壁垒产品难以持续。"}],["$","meta","4",{"name":"keywords","content":"AI,Artificial Intelligence,News,Tech News,Weekly Updates"}],["$","meta","5",{"name":"robots","content":"index, follow, nocache"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"看完 1289 个死掉的 AI 产品，我发现这些需求就不该用 AI 解决"}],["$","meta","8",{"property":"og:description","content":"【AI摘要】文章分析1289个失败AI产品，揭示套壳应用（如AI搭讪生成器）和情感陪伴类产品（如AI伴侣）是重灾区。失败主因包括同质化竞争、大模型更新淘汰、盈利模式缺失及监管风险，证明伪需求场景（如虚拟恋爱）和低技术壁垒产品难以持续。"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3000/images/16.png"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"看完 1289 个死掉的 AI 产品，我发现这些需求就不该用 AI 解决"}],["$","meta","12",{"name":"twitter:description","content":"【AI摘要】文章分析1289个失败AI产品，揭示套壳应用（如AI搭讪生成器）和情感陪伴类产品（如AI伴侣）是重灾区。失败主因包括同质化竞争、大模型更新淘汰、盈利模式缺失及监管风险，证明伪需求场景（如虚拟恋爱）和低技术壁垒产品难以持续。"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/16.png"}],["$","link","14",{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/AI.svg","type":"image/svg+xml"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

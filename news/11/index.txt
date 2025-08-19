@@ -1,0 +1,42 @@
+2:I[4919,["569","static/chunks/569-3ef278f5e2842b61.js","914","static/chunks/914-3b7ba9a1b352f441.js","508","static/chunks/508-bfb62a8216dafafd.js","903","static/chunks/app/news/%5B...id%5D/page-7d846f57b58e7d23.js"],""]
+4:I[5613,[],""]
+6:I[1778,[],""]
+7:I[5935,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+8:I[151,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+9:I[78,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"ThemeProvider"]
+a:I[368,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"LanguageProvider"]
+3:T821,
+      <p><b>一、原文核心内容与分析</b>
+      
+      <h4>颠覆性成就与战略定位</h4>
+<p>Oleve由Sid Bendre创立，仅4名员工实现年收入600万美元，服务超500万用户。创始人放弃Palantir职位，旨在打造"消费者版Palantir"，将大数据能力应用于消费产品。</p>
+
+<h4>产品演进路径</h4>
+<p><strong>Quizard AI（2023年1月）</strong>：首款学习应用，借力TikTok营销（"ChatGPT+Photomath"概念）30小时获1万用户。初期巧用Codex模型规避成本，后转向GPT-3.5推动订阅变现。</p>
+<p><strong>校园营销突破</strong>：2023年秋季街头采访视频在TikTok获1170万观看，占领高校关键词搜索前列。</p>
+<p><strong>Unstuck AI（2024年8月）</strong>：复用增长策略九周达100万用户，月内产生2.5亿社媒观看量。</p>
+
+<h4>六大运营原则</h4>
+<ul>
+  <li><strong>精英招聘</strong>：只招10倍效率的多技能人才</li>
+  <li><strong>利润优先</strong>：决策以盈利能力为唯一标准</li>
+  <li><strong>KPI对齐</strong>：每人负责单一指标消除微观管理</li>
+  <li><strong>超级工具</strong>：创新使用Launch Darkly作流量调度器</li>
+</ul>
+
+<h4>组织架构创新</h4>
+<p>采用"收割者-培育者"双轨模型：收割者负责产品全生命周期，培育者构建智能操作系统。</p>
+      
+      <p><b>二、深度思考</b>
+      <b>
+  
+  <p><strong>范式颠覆与风险</strong>：小团队+AI的模式挑战传统创业逻辑，但高度依赖多面手人才的结构存在单点故障风险。"利润优先"原则虽避免融资陷阱，却可能抑制基础研发投入。</p>
+  <p><strong>技术民主化困境</strong>：提示路由等轻量方案降低门槛，但过度依赖第三方API将受制于政策变动。去索引器等创新折射出AI基础设施仍不成熟。</p>
+  <p><strong>增长可持续性质疑</strong>：病毒营销依赖平台算法红利，"便利贴概念"等爆款易被复制。当CPG式竞争加剧，品牌护城河尚未建立。</p>
+
+
+      </b><p>
+    5:["id","11","c"]
+0:["ynNcjvjOGciEPa5SCiAIr",[[["",{"children":["news",{"children":[["id","11","c"],{"children":["__PAGE__?{\"id\":[\"11\"]}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["id","11","c"],{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"article":{"id":"11","title":"Oleve 如何仅靠 4 个人做到年收入 600 万美元","summary":"【AI摘要】Oleve是一家仅4人的创业公司，年收入600万美元，服务超500万用户，从第9个月起盈利。它通过AI工具（如Quizard AI学习应用）和精益方法论（如利润优先、KPI对齐）颠覆传统创业模式，实现病毒式增长（如TikTok营销）。核心是’新精益创业‘原则，结合组织创新（收割者与培育者模型），证明小团队在AI时代可高效创造巨大价值。","content":"$3","category":"案例","date":"2025-07-07","imageUrl":"/images/11.jpg","source":"深思圈","sourceUrl":"https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg%3D%3D&mid=2247488513&idx=1&sn=1431c7d92771df970b86df3ac134681f&utm_source=substack&utm_medium=email","tags":["AI创业革新","精益方法论","小团队效率","病毒式增长"],"readingTime":15,"aiSummary":"Oleve是一家仅4人的创业公司，年收入600万美元，服务超500万用户，从第9个月起盈利。它通过AI工具（如Quizard AI学习应用）和精益方法论（如利润优先、KPI对齐）颠覆传统创业模式，实现病毒式增长（如TikTok营销）。核心是’新精益创业‘原则，结合组织创新（收割者与培育者模型），证明小团队在AI时代可高效创造巨大价值。"}}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","$L7",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6311595220291476","crossOrigin":"anonymous","strategy":"afterInteractive"}]]}],["$","body",null,{"className":"__variable_e8ce0c __variable_5899e0 antialiased","children":[["$","$L8",null,{}],["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$La",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58f861f69185c564.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Oleve 如何仅靠 4 个人做到年收入 600 万美元 | AI News Weekly"}],["$","meta","3",{"name":"description","content":"【AI摘要】Oleve是一家仅4人的创业公司，年收入600万美元，服务超500万用户，从第9个月起盈利。它通过AI工具（如Quizard AI学习应用）和精益方法论（如利润优先、KPI对齐）颠覆传统创业模式，实现病毒式增长（如TikTok营销）。核心是’新精益创业‘原则，结合组织创新（收割者与培育者模型），证明小团队在AI时代可高效创造巨大价值。"}],["$","meta","4",{"name":"keywords","content":"AI,Artificial Intelligence,News,Tech News,Weekly Updates"}],["$","meta","5",{"name":"robots","content":"index, follow, nocache"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"Oleve 如何仅靠 4 个人做到年收入 600 万美元"}],["$","meta","8",{"property":"og:description","content":"【AI摘要】Oleve是一家仅4人的创业公司，年收入600万美元，服务超500万用户，从第9个月起盈利。它通过AI工具（如Quizard AI学习应用）和精益方法论（如利润优先、KPI对齐）颠覆传统创业模式，实现病毒式增长（如TikTok营销）。核心是’新精益创业‘原则，结合组织创新（收割者与培育者模型），证明小团队在AI时代可高效创造巨大价值。"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3000/images/11.jpg"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Oleve 如何仅靠 4 个人做到年收入 600 万美元"}],["$","meta","12",{"name":"twitter:description","content":"【AI摘要】Oleve是一家仅4人的创业公司，年收入600万美元，服务超500万用户，从第9个月起盈利。它通过AI工具（如Quizard AI学习应用）和精益方法论（如利润优先、KPI对齐）颠覆传统创业模式，实现病毒式增长（如TikTok营销）。核心是’新精益创业‘原则，结合组织创新（收割者与培育者模型），证明小团队在AI时代可高效创造巨大价值。"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/11.jpg"}],["$","link","14",{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/AI.svg","type":"image/svg+xml"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

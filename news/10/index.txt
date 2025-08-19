@@ -1,0 +1,54 @@
+2:I[4919,["569","static/chunks/569-3ef278f5e2842b61.js","914","static/chunks/914-3b7ba9a1b352f441.js","508","static/chunks/508-bfb62a8216dafafd.js","903","static/chunks/app/news/%5B...id%5D/page-7d846f57b58e7d23.js"],""]
+4:I[5613,[],""]
+6:I[1778,[],""]
+7:I[5935,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+8:I[151,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+9:I[78,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"ThemeProvider"]
+a:I[368,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"LanguageProvider"]
+3:Tb74,
+      <p><b>一、原文核心内容与分析</b><p>
+      
+      <h4>▍OhChat平台运作模式</h4>
+<ul>
+  <li><strong>AI分身生成</strong>：创作者上传30张照片+30分钟对话训练，Meta模型学习语调/声音生成数字分身</li>
+  <li><strong>分级互动</strong>：设置4级露骨程度（如波霸乔丹选择二级：裸露上身但无性行为模拟）</li>
+  <li><strong>商业模式</strong>：订阅制（4.99-29.99美元/月），创作者获80%分成，AI实现"被动接客"</li>
+</ul>
+
+<h4>▍技术实现与行业痛点</h4>
+<ul>
+  <li><strong>技术栈</strong>：人脸驱动+语音对齐+Stable Diffusion优化，确保神态自然</li>
+  <li><strong>行业痛点</strong>：OnlyFans创作者面临时间瓶颈（日均数百条消息），外包导致"真人感"丧失</li>
+  <li><strong>核心优势</strong>：AI分身永葆青春（如47岁乔丹展示23岁形象），精准满足XP偏好</li>
+</ul>
+
+<h4>▍市场需求与伦理争议</h4>
+<ul>
+  <li><strong>孤独经济</strong>：Replika移除情色功能引发用户抗议，欧盟35%人群感到孤独</li>
+  <li><strong>市场数据</strong>：AI伴侣应用年下载量2.25亿次，前100生成式AI中20%为陪伴类</li>
+  <li><strong>伦理困境</strong>：牛津学者质疑"情感商品化"，法律未界定AI色情服务是否属性工作</li>
+</ul>
+
+<h4>▍人类社交能力退化</h4>
+<ul>
+  <li><strong>AI更"像人"</strong>：GPT-4.5图灵测试通过率73%（人类仅56%）</li>
+  <li><strong>人类"AI化"</strong>："聊缩力"现象凸显真人社交敷衍（如机械回复"嗯嗯"）</li>
+  <li><strong>社会变迁</strong>：美国拥有10+密友人群比例从1990年33%降至2021年13%</li>
+</ul>
+      <p><b>二、深度思考</b><p>
+    <b>
+    <p><strong>技术赋能的黑暗面</strong>：OhChat将情感劳动彻底商品化，AI分身的"永不疲惫"特性可能加剧真人创作者失业（如菲律宾代聊时薪3美元岗位消失）。当GPT-4.5比人类更擅长调情，"情感真实性"概念被重新定义。</p>
+  
+  <p><strong>伦理监管真空</strong>：现行法律无法界定"与AI分身互动是否算嫖娼"，平台用创作者"露骨程度分级"自我规制实为规避责任。若用户对AI产生情感依赖（如英国女子为ChatGPT离婚），可能引发新型社会问题。</p>
+  
+  <p><strong>孤独产业悖论</strong>：Replika案例证明，移除5%露骨内容导致用户崩溃，反映人类将情感需求投射至AI的危险性。当3000万美元产值的"孤独经济"建立在算法回应上，真实人际关系可能进一步萎缩。</p>
+  
+  <p><strong>未来隐忧</strong>：OhChat的"XP精准投喂"机制可能强化用户特殊性癖，形成信息茧房。而AI记忆模块对用户偏好的深度学习，存在隐私数据滥用风险——这些敏感信息若被勒索软件攻击，后果不堪设想。</p>
+
+    </b>
+    
+    <p>
+    5:["id","10","c"]
+0:["ynNcjvjOGciEPa5SCiAIr",[[["",{"children":["news",{"children":[["id","10","c"],{"children":["__PAGE__?{\"id\":[\"10\"]}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["id","10","c"],{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"article":{"id":"10","title":"AI 版的 OnlyFans，要抢走福利姬饭碗了？","summary":"【AI摘要】英国公司OhChat推出AI数字分身服务，创作者上传30张照片即可生成虚拟形象，通过语音对齐和人脸驱动技术实现自动调情、发图甚至模拟性行为。用户订阅收入80%归创作者，解决了OnlyFans创作者时间不足的问题。技术成熟（Meta语言模型+扩散模型）降低了成人内容生产成本，但也引发‘电子嫖娼’伦理争议。市场层面，AI伴侣（如Replika）需求激增，折射出人类孤独感与对可控情感联结的渴望。","content":"$3","category":"案例","date":"2025-07-07","imageUrl":"/images/10.jpg","source":"酷玩实验室","sourceUrl":"https://www.huxiu.com/article/4550079.html?f=rss&utm_source=substack&utm_medium=email","tags":["AI成人内容","虚拟陪伴经济","伦理争议","技术商业化"],"readingTime":15,"aiSummary":"英国公司OhChat推出AI数字分身服务，创作者上传30张照片即可生成虚拟形象，通过语音对齐和人脸驱动技术实现自动调情、发图甚至模拟性行为。用户订阅收入80%归创作者，解决了OnlyFans创作者时间不足的问题。技术成熟（Meta语言模型+扩散模型）降低了成人内容生产成本，但也引发‘电子嫖娼’伦理争议。市场层面，AI伴侣（如Replika）需求激增，折射出人类孤独感与对可控情感联结的渴望。"}}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","$L7",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6311595220291476","crossOrigin":"anonymous","strategy":"afterInteractive"}]]}],["$","body",null,{"className":"__variable_e8ce0c __variable_5899e0 antialiased","children":[["$","$L8",null,{}],["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$La",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58f861f69185c564.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"AI 版的 OnlyFans，要抢走福利姬饭碗了？ | AI News Weekly"}],["$","meta","3",{"name":"description","content":"【AI摘要】英国公司OhChat推出AI数字分身服务，创作者上传30张照片即可生成虚拟形象，通过语音对齐和人脸驱动技术实现自动调情、发图甚至模拟性行为。用户订阅收入80%归创作者，解决了OnlyFans创作者时间不足的问题。技术成熟（Meta语言模型+扩散模型）降低了成人内容生产成本，但也引发‘电子嫖娼’伦理争议。市场层面，AI伴侣（如Replika）需求激增，折射出人类孤独感与对可控情感联结的渴望。"}],["$","meta","4",{"name":"keywords","content":"AI,Artificial Intelligence,News,Tech News,Weekly Updates"}],["$","meta","5",{"name":"robots","content":"index, follow, nocache"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"AI 版的 OnlyFans，要抢走福利姬饭碗了？"}],["$","meta","8",{"property":"og:description","content":"【AI摘要】英国公司OhChat推出AI数字分身服务，创作者上传30张照片即可生成虚拟形象，通过语音对齐和人脸驱动技术实现自动调情、发图甚至模拟性行为。用户订阅收入80%归创作者，解决了OnlyFans创作者时间不足的问题。技术成熟（Meta语言模型+扩散模型）降低了成人内容生产成本，但也引发‘电子嫖娼’伦理争议。市场层面，AI伴侣（如Replika）需求激增，折射出人类孤独感与对可控情感联结的渴望。"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3000/images/10.jpg"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"AI 版的 OnlyFans，要抢走福利姬饭碗了？"}],["$","meta","12",{"name":"twitter:description","content":"【AI摘要】英国公司OhChat推出AI数字分身服务，创作者上传30张照片即可生成虚拟形象，通过语音对齐和人脸驱动技术实现自动调情、发图甚至模拟性行为。用户订阅收入80%归创作者，解决了OnlyFans创作者时间不足的问题。技术成熟（Meta语言模型+扩散模型）降低了成人内容生产成本，但也引发‘电子嫖娼’伦理争议。市场层面，AI伴侣（如Replika）需求激增，折射出人类孤独感与对可控情感联结的渴望。"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/10.jpg"}],["$","link","14",{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/AI.svg","type":"image/svg+xml"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

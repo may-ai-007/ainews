@@ -1,0 +1,45 @@
+2:I[4919,["569","static/chunks/569-3ef278f5e2842b61.js","914","static/chunks/914-3b7ba9a1b352f441.js","508","static/chunks/508-bfb62a8216dafafd.js","903","static/chunks/app/news/%5B...id%5D/page-7d846f57b58e7d23.js"],""]
+4:I[5613,[],""]
+6:I[1778,[],""]
+7:I[5935,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+8:I[151,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+9:I[78,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"ThemeProvider"]
+a:I[368,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"LanguageProvider"]
+3:T951,
+      <p><b>一、原文核心内容与分析</b>
+
+<h4>▍开发背景与痛点</h4>
+<p>作者作为程序员奶爸，遭遇典型育儿困境：海量矛盾信息（小红书/长辈/医生建议）引发决策焦虑，尤其当孩子发育节奏与"别人家娃"不同时。核心洞察：父母需要的是基于自家孩子特性的专属决策助手。</p>
+
+<h4>▍产品突破点</h4>
+<ul>
+  <li><strong>从通用到个性</strong>：初期AI仅提供泛化建议，经1个月调试后实现质变——当AI能结合"牛奶过敏"特性解答"睡不踏实"问题时，才成为真正有用的助手</li>
+  <li><strong>核心技术</strong>：公开"超级育儿Prompt"，包含园艺式育儿理念（非雕刻）、三大价值原则（无条件的爱/温柔坚定/言传身教）及AAP/WHO权威知识框架</li>
+</ul>
+
+<h4>▍核心功能</h4>
+<ul>
+  <li><strong>个性化顾问</strong>：输入宝宝信息（月龄/过敏史/性格）后，AI生成定制方案</li>
+  <li><strong>数字成长档案</strong>：自动记录喂养/睡眠/身高体重数据，形成养育知识库</li>
+  <li><strong>医疗边界声明</strong>：明确健康问题需咨询专业医生，规避医疗建议风险</li>
+</ul>
+
+<h4>▍未来规划</h4>
+<p>规划成长曲线分析、智能疫苗提醒等功能，持续深化"用技术传递爱"的初心——让父母减少焦虑，专注高质量陪伴。</p>
+      
+      <p><b>二、深度思考</b>
+      <b>
+       <p><strong>精准痛点抓取</strong>：作者敏锐捕捉当代父母的核心矛盾——信息过载与个性化缺失。当通用育儿建议遭遇个体差异（如过敏体质），反而加剧焦虑。产品通过"特性标签+权威框架"精准破局。</p>
+  
+  <p><strong>AI伦理实践样本</strong>：主动设置医疗建议边界，体现负责任的技术观。但儿童数据（过敏史/发育记录）涉及敏感信息，需强化加密与权限管理。</p>
+  
+  <p><strong>技术人性化挑战</strong>：将"园艺式育儿"理念转化为Prompt是创新尝试，但AI能否真正理解"无条件的爱"等抽象概念存疑，需防范建议机械化风险。</p>
+  
+  <p><strong>商业化平衡点</strong>：免费Prompt分享获用户信任，但成长档案等深度功能可能走向订阅制。需警惕功能分级导致的体验割裂，保持初心是关键。</p>
+
+
+      </b><p>
+    5:["id","15","c"]
+0:["ynNcjvjOGciEPa5SCiAIr",[[["",{"children":["news",{"children":[["id","15","c"],{"children":["__PAGE__?{\"id\":[\"15\"]}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["id","15","c"],{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"article":{"id":"15","title":"我用 AI 造了个「懂我家娃」的育儿助手","summary":"【AI摘要】程序员奶爸为解决育儿信息焦虑，开发AI助手'萌芽育儿'。通过两个月迭代实现从通用建议到个性化指导的突破，核心是让AI理解每个孩子的独特性（如过敏史）。产品提供定制育儿建议+成长档案功能，未来将扩展疫苗提醒等黑科技。","content":"$3","category":"案例","date":"2025-07-10","imageUrl":"/images/15.jpg","source":"观默","sourceUrl":"https://mp.weixin.qq.com/s?__biz=Mzk0MDY5Nzg1Mw%3D%3D&mid=2247483866&idx=1&sn=f0cacd10fdb933763ed4ff5d6fe45afd&chksm=c30cc9942f822fa4aa71b520c691128803d87391e1be349bcca8e431b420ad63b99b05021a72&mpshare=1&scene=1&srcid=0706eZd80rwo2qQuZeiJk6eN&sharer_shareinfo=c9e4c01fe374e7bce7505da66f9d50b1&sharer_shareinfo_first=c9e4c01fe374e7bce7505da66f9d50b1&utm_source=substack&utm_medium=email","tags":["AI育儿助手","个性化教育","数据驱动","家庭互动"],"readingTime":8,"aiSummary":"程序员奶爸为解决育儿信息焦虑，开发AI助手'萌芽育儿'。通过两个月迭代实现从通用建议到个性化指导的突破，核心是让AI理解每个孩子的独特性（如过敏史）。产品提供定制育儿建议+成长档案功能，未来将扩展疫苗提醒等黑科技。"}}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","$L7",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6311595220291476","crossOrigin":"anonymous","strategy":"afterInteractive"}]]}],["$","body",null,{"className":"__variable_e8ce0c __variable_5899e0 antialiased","children":[["$","$L8",null,{}],["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$La",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58f861f69185c564.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"我用 AI 造了个「懂我家娃」的育儿助手 | AI News Weekly"}],["$","meta","3",{"name":"description","content":"【AI摘要】程序员奶爸为解决育儿信息焦虑，开发AI助手'萌芽育儿'。通过两个月迭代实现从通用建议到个性化指导的突破，核心是让AI理解每个孩子的独特性（如过敏史）。产品提供定制育儿建议+成长档案功能，未来将扩展疫苗提醒等黑科技。"}],["$","meta","4",{"name":"keywords","content":"AI,Artificial Intelligence,News,Tech News,Weekly Updates"}],["$","meta","5",{"name":"robots","content":"index, follow, nocache"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"我用 AI 造了个「懂我家娃」的育儿助手"}],["$","meta","8",{"property":"og:description","content":"【AI摘要】程序员奶爸为解决育儿信息焦虑，开发AI助手'萌芽育儿'。通过两个月迭代实现从通用建议到个性化指导的突破，核心是让AI理解每个孩子的独特性（如过敏史）。产品提供定制育儿建议+成长档案功能，未来将扩展疫苗提醒等黑科技。"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3000/images/15.jpg"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"我用 AI 造了个「懂我家娃」的育儿助手"}],["$","meta","12",{"name":"twitter:description","content":"【AI摘要】程序员奶爸为解决育儿信息焦虑，开发AI助手'萌芽育儿'。通过两个月迭代实现从通用建议到个性化指导的突破，核心是让AI理解每个孩子的独特性（如过敏史）。产品提供定制育儿建议+成长档案功能，未来将扩展疫苗提醒等黑科技。"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/15.jpg"}],["$","link","14",{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/AI.svg","type":"image/svg+xml"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null

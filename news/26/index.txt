@@ -1,0 +1,55 @@
+2:I[4919,["569","static/chunks/569-3ef278f5e2842b61.js","914","static/chunks/914-3b7ba9a1b352f441.js","508","static/chunks/508-bfb62a8216dafafd.js","903","static/chunks/app/news/%5B...id%5D/page-7d846f57b58e7d23.js"],""]
+4:I[5613,[],""]
+6:I[1778,[],""]
+7:I[5935,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+8:I[151,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],""]
+9:I[78,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"ThemeProvider"]
+a:I[368,["185","static/chunks/app/layout-d3e48dc66ad6188b.js"],"LanguageProvider"]
+3:Tcc9,
+      <p><b>一、原文核心内容与分析</b>
+
+<h4>▍创始团队与技术基因</h4>
+<p>Same.new由三位技术极客创立：Aiden（高中开发Million.js优化React性能）、Nisarg（中学开发YouTube歌词生成器赚数十万美金）、John（建筑系休学投身AI）。John分享编程启蒙源于高中神经网络实验，GPT-2发布后训练萨克斯伴奏模型，ChatGPT爆发后全职投入AI应用开发。</p>
+
+<h4>▍创业历程与产品转型</h4>
+<ul>
+  <li><strong>技术探索期</strong>：John开发建筑灵感收集器、自动浏览Agent等十余个项目，加入OpenAI前研究员团队研究数学证明AI</li>
+  <li><strong>商业觉醒</strong>：意识到研究型项目难盈利，转向解决企业实际需求，与Aiden/Nisarg合作优化React性能工具</li>
+  <li><strong>Same诞生</strong>：2024年底从150个创意中选定"让普通人开发赚钱产品"方向，基于"自动化复制工作流"洞察，2.5个月上线产品</li>
+</ul>
+
+<h4>▍产品架构与用户价值</h4>
+<ul>
+  <li><strong>技术核心</strong>：多Agent协作系统（开发/运营/测试Agent），处理模糊业务需求</li>
+  <li><strong>交互设计</strong>：用户通过自然语言指令，Same自动生成代码、部署迭代</li>
+  <li><strong>典型用户</strong>：中小企业主（建营销网站）、个人开发者（快速验证MVP）</li>
+  <li><strong>核心痛点</strong>：降低开发门槛（原需1周的Wix建站现仅2-3小时）</li>
+</ul>
+
+<h4>▍商业化与行业洞察</h4>
+<ul>
+  <li><strong>变现模式</strong>：Token流量收费（当前300万美元ARR），长期规划用户盈利分成</li>
+  <li><strong>竞争格局</strong>：面向非开发者市场需差异化设计，Cursor等工具聚焦程序员效率提升</li>
+  <li><strong>未来挑战</strong>：技术月级迭代导致技能贬值，监管框架滞后，需建立用户信任机制</li>
+</ul>
+
+<h4>▍创始人理念与愿景</h4>
+<ul>
+  <li><strong>工作哲学</strong>："Just Work"——快速迭代，敢于发布半成品收集用户反馈</li>
+  <li><strong>团队文化</strong>：偏爱动手能力强、具产品直觉的成员，拒绝过度设计</li>
+  <li><strong>终极目标</strong>：用户通过Same"从Make web apps到Make money"，Same从中分成</li>
+</ul>
+
+
+      
+      <p><b>二、深度思考</b>
+      <b>
+   
+      <p>Same.new案例揭示了AI工具演进的三个关键跃迁：从效率工具（如Cursor提升程序员产出）到创造平台（赋能非技术用户），最终指向经济系统（构建创作-盈利闭环）。其多Agent架构虽解决复杂任务协调难题，但面临两大悖论：技术民主化要求极简交互与底层系统复杂性间的矛盾，商业可持续性依赖规模化与个性化服务成本间的冲突。创始人"半成品发布"策略看似激进，实则契合AI时代"训练数据即护城河"的本质——用户反馈优化模型的效果远胜封闭开发。然而，当行业从技术竞赛转向生态竞争，Same需警惕工具属性被平台收编的风险（如抖音内置AI创作功能），应加速构建用户资产沉淀（如作品库/工作流复用），方能在"AI泡沫期"后持续创造价值。</p>
+
+
+      </b><p>
+    5:["id","26","c"]
+0:["ynNcjvjOGciEPa5SCiAIr",[[["",{"children":["news",{"children":[["id","26","c"],{"children":["__PAGE__?{\"id\":[\"26\"]}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["news",{"children":[["id","26","c"],{"children":["__PAGE__",{},["$L1",["$","$L2",null,{"article":{"id":"26","title":"专访 Same.new：三位 00 后以「网页复制」切入 AI 开发赛道，4 个月实现 300 万美金 ARR","summary":"【AI摘要】Same.new利用AI Agents帮助用户快速创建、部署web应用并商业化，上线4个月吸引50万用户，实现300万美元年度经常性收入。创始人分享了创业历程、技术架构和从’Make web apps‘到’Make money‘的愿景。","content":"$3","category":"专访","date":"2025-07-21","imageUrl":"/images/26.jpg","source":"ZPotential","sourceUrl":"https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA%3D%3D&mid=2247508538&idx=1&sn=20bcfd47c7e0883c17fd3fc429a90970&utm_source=substack&utm_medium=email&poc_token=HFw-hmijUZEW-dsJfXeM4Wtmt-tBsHw6P95IVSZF","tags":["AI开发革命","技术民主化","创作者经济","人机协作"],"readingTime":18,"aiSummary":"Same.new利用AI Agents帮助用户快速创建、部署web应用并商业化，上线4个月吸引50万用户，实现300万美元年度经常性收入。创始人分享了创业历程、技术架构和从‘Make web apps’到‘Make money’的愿景。"}}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","news","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"alternate icon","href":"/favicon.ico"}],["$","$L7",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6311595220291476","crossOrigin":"anonymous","strategy":"afterInteractive"}]]}],["$","body",null,{"className":"__variable_e8ce0c __variable_5899e0 antialiased","children":[["$","$L8",null,{}],["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$La",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/58f861f69185c564.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"专访 Same.new：三位 00 后以「网页复制」切入 AI 开发赛道，4 个月实现 300 万美金 ARR | AI News Weekly"}],["$","meta","3",{"name":"description","content":"【AI摘要】Same.new利用AI Agents帮助用户快速创建、部署web应用并商业化，上线4个月吸引50万用户，实现300万美元年度经常性收入。创始人分享了创业历程、技术架构和从’Make web apps‘到’Make money‘的愿景。"}],["$","meta","4",{"name":"keywords","content":"AI,Artificial Intelligence,News,Tech News,Weekly Updates"}],["$","meta","5",{"name":"robots","content":"index, follow, nocache"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","meta","7",{"property":"og:title","content":"专访 Same.new：三位 00 后以「网页复制」切入 AI 开发赛道，4 个月实现 300 万美金 ARR"}],["$","meta","8",{"property":"og:description","content":"【AI摘要】Same.new利用AI Agents帮助用户快速创建、部署web应用并商业化，上线4个月吸引50万用户，实现300万美元年度经常性收入。创始人分享了创业历程、技术架构和从’Make web apps‘到’Make money‘的愿景。"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3000/images/26.jpg"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"专访 Same.new：三位 00 后以「网页复制」切入 AI 开发赛道，4 个月实现 300 万美金 ARR"}],["$","meta","12",{"name":"twitter:description","content":"【AI摘要】Same.new利用AI Agents帮助用户快速创建、部署web应用并商业化，上线4个月吸引50万用户，实现300万美元年度经常性收入。创始人分享了创业历程、技术架构和从’Make web apps‘到’Make money‘的愿景。"}],["$","meta","13",{"name":"twitter:image","content":"http://localhost:3000/images/26.jpg"}],["$","link","14",{"rel":"icon","href":"/AI.svg","type":"image/svg+xml"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","link","16",{"rel":"apple-touch-icon","href":"/AI.svg","type":"image/svg+xml"}],["$","meta","17",{"name":"next-size-adjust"}]]
+1:null
